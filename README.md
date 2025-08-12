@@ -60,3 +60,5 @@ This tool is intended for simple Git workflows and learning purposes. Use with c
 ## License
 
 This project is under the MIT license.
+
+THE SOFTWARE IS PROVIDED 'AS IS' WITHOUT ANY WARRANTY. THE AUTHORS ARE NOT LIABLE FOR ANY CLAIMS OR DAMAGES ARISING FROM ITS USE.
